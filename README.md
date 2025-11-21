@@ -1,7 +1,8 @@
 <!-- 3D ANIMATED BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="3D Snake Animation" />
+  <img src="./assets/typing.svg" alt="Typing Animation" />
 </p>
+
 
 <!-- HEADER -->
 <p align="center">
