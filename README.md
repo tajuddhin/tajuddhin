@@ -1,12 +1,11 @@
 <!-- 3D ANIMATED BANNER -->
 <p align="center">
-  <img src="./assets/typing.svg" alt="Typing Animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="3D Snake Animation" />
 </p>
-
 
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=30&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Taj!;Salesforce+Developer+%7C+Admin+%7C+LWC+Specialist;4%2B+Years+Experience+in+Salesforce+CRM;AI+%26+Integration+Enthusiast" alt="Typing SVG" />
+  <img src="./assets/typing.svg" alt="Typing Animation" />
 </p>
 
 <p align="center">
